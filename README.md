@@ -1,3 +1,1 @@
 # MediSecond
-
-#Sample Commit
